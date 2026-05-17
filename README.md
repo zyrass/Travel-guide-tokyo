@@ -51,9 +51,9 @@ Le projet est entièrement construit selon les standards modernes du web, sans b
 
 ---
 
-## 💎 Refonte & Optimisations (Antigravity Upgrade)
+## 💎 Refonte & Optimisations Majeures
 
-Afin d'élever ce projet étudiant à un niveau de **production professionnelle**, le code d'origine a subi des optimisations majeures :
+Afin d'élever ce projet étudiant à un niveau de **production professionnelle**, le code a subi des optimisations majeures :
 
 1. **Correction du Bug du Footer (CSS Grid) :** Les pistes de hauteur figées de la grille principale ont été remplacées par des valeurs dynamiques (`auto`). Cela résout définitivement les chevauchements et débordements d'éléments qui survenaient sur tablette et ordinateur.
 2. **Correction des Données Géographiques (Contenu) :** Remplacement des numéros d'urgence thaïlandais (copy-paste de Bangkok) par les véritables coordonnées et numéros de sécurité du Japon (Police : `110`, Pompiers : `119`, Japan Helpline).
